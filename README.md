@@ -1,7 +1,6 @@
-# ai-based-pacman-game-using-search-algorithm
 
-# 🎮 AI-Based Pacman Game using Greedy Best-First Search
 
+# 🎮 AI-Based Pacman Game
 ## 📌 Overview
 This project implements an **AI-powered Pacman game** where an intelligent agent navigates a maze, collects dots, and avoids ghosts using **Greedy Best-First Search (GBFS)**.
 
