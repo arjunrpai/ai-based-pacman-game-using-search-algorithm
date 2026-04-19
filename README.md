@@ -7,7 +7,6 @@ This project implements an **AI-powered Pacman game** where an intelligent agent
 
 The agent makes decisions based on heuristic values, enabling **fast and efficient real-time gameplay**.
 
----
 
 ## 🚀 Features
 - 🤖 AI-controlled Pacman agent  
@@ -17,7 +16,6 @@ The agent makes decisions based on heuristic values, enabling **fast and efficie
 - 🎮 Real-time movement and collision detection  
 - 📊 Performance-based navigation  
 
----
 
 ## 🛠️ Technologies Used
 - Python 🐍  
@@ -25,7 +23,6 @@ The agent makes decisions based on heuristic values, enabling **fast and efficie
 - Data Structures (Priority Queue, Lists)  
 - Artificial Intelligence (Search Algorithms)  
 
----
 
 ## 🧠 Core Algorithm: Greedy Best-First Search
 
@@ -39,7 +36,7 @@ Where:
 
 The algorithm always chooses the node that appears closest to the goal.
 
----
+
 
 ## ⚙️ How It Works
 1. Pacman observes current position  
@@ -48,7 +45,6 @@ The algorithm always chooses the node that appears closest to the goal.
 4. Selects the best immediate move  
 5. Repeats in real-time  
 
----
 
 ## 📊 Results & Analysis
 - Uses **greedy directional heuristic** for movement  
@@ -61,7 +57,7 @@ The algorithm always chooses the node that appears closest to the goal.
 - Low memory usage  
 - Real-time responsiveness  
 
----
+
 
 ## 📈 Algorithm Comparison
 
@@ -72,7 +68,7 @@ The algorithm always chooses the node that appears closest to the goal.
 | A* | Informed | ✅ | Fast | Medium |
 | **Greedy** | Heuristic | ❌ | ⚡ Very Fast | Very Low |
 
----
+
 
 ## 🎯 Objectives
 - Develop an AI-based Pacman agent  
@@ -81,7 +77,6 @@ The algorithm always chooses the node that appears closest to the goal.
 - Optimize real-time navigation  
 
 
----
 
 ## 🔮 Future Scope
 - Implement A* and Dijkstra algorithms  
@@ -90,15 +85,15 @@ The algorithm always chooses the node that appears closest to the goal.
 - Procedural maze generation  
 - Multiplayer mode  
 
----
 
 ## 💡 Conclusion
 This project demonstrates how **Greedy Best-First Search** can be effectively used for real-time decision-making in games.  
 Although it does not guarantee optimal paths, it provides **excellent speed and responsiveness**, making it suitable for dynamic environments like Pacman.
 
----
+
 
 ## ⭐ How to Run
+
 ```bash
 git clone https://github.com/your-username/pacman-ai.git
 cd pacman-ai
